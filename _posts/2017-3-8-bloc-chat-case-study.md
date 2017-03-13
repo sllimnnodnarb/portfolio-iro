@@ -63,4 +63,4 @@ At completion, Bloc Chat resolved to be a user-friendly messaging application th
 
 ---
 
-For questions or comments about Bloc Chat, please visit the [contact](/contact/) page
+To learn more [about](/about) the author or the content herein, just [ask](/contact/).

@@ -53,4 +53,4 @@ The completion of the Bloc Jams application made available a music player applic
 
 ---
 
-For questions or comments about Bloc Jams, please visit the [contact](/contact/) page
+To learn more [about](/about) the author or the content herein, just [ask](/contact/).
