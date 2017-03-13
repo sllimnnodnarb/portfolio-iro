@@ -9,7 +9,7 @@ As the old saying goes, "Please, don't offer me anything, I will tell you what I
 ![]({{ site.baseurl }}/img/3-bloc-chat-home.png)
 
 
-If you enjoy play-by-play analysis, you will find that this case study convers a number of critical steps in the development of Bloc Chat. During development, challenges arose that were made solvent with pure ingenuity.  Read on to see those challenges exlained in further detail.
+If you enjoy play-by-play analysis, you will find that this case study covers a number of critical steps in the development of Bloc Chat. During development, challenges arose that were made solvent with pure ingenuity.  Read on to see those challenges explained in further detail.
 
 ---
 
@@ -45,7 +45,7 @@ Once the room name is entered and the user clicks 'Create room', the new room na
 
 ---
 
-Another dilemma that arose was ensuring that all messages retrieved from the database were not displayed in every chat room.  For instance, conversations about what type of food should be ordered for lunch didn't need to be intermingled with the messages concerning accounting (although studies show accountants do need to eat also).  This problem was remedied by restricting the messges retrieved from the database to only those associated with the ID established in the creation of the room in the first place.  Observe that each active room only displays the messages that were composed within that room (containing the same reference ID).
+Another dilemma that arose was ensuring that all messages retrieved from the database were not displayed in every chat room.  For instance, conversations about what type of food should be ordered for lunch didn't need to be intermingled with the messages concerning accounting (although studies show accountants do need to eat also).  This problem was remedied by restricting the messages retrieved from the database to only those associated with the ID established in the creation of the room in the first place.  Observe that each active room only displays the messages that were composed within that room (containing the same reference ID).
 
 
 {:.center} 
