@@ -14,6 +14,6 @@ I welcome your feedback, questions, and comments.  Fill out the form below and I
   <input type='hidden' name='redirect_to' value='http://bloc.github.io/portfolio-iro/thank-you/' /> -->
   <input type='text' name='name' placeholder='Your Full Name' /><br><br>
   <input type='email' name='email' placeholder='Your E-mail Address' /><br><br>
-  <textarea name='message' placeholder='Write your message ...'></textarea><br>
+  <textarea name='message' placeholder='Write your message here...'></textarea><br>
   <a type='submit' value='Send Message' href = '/thank-you/'>Submit</a>
 </form>
