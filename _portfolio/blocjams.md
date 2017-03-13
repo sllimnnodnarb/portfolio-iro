@@ -1,9 +1,19 @@
 ---
 layout: post
-title: BlocJams
-feature-img: "img/sample_feature_img.png"
-thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/2030966/blocjams_1x.png"
-short-description: BlocJams for iOS is awesome!
+title: Bloc Jams
+date: February, 2017
+feature-img: "img/bloc-jams-banner.png"
+thumbnail-path: "img/bloc-jams-thumbnail.png"
+short-description: Bloc Jams for iOS is a sleek and responsive personal music player. 
+---
+---
+The express vision behind the creation of Bloc Jams perceived a minimalistic music-player that still offered the user an energetic feel from the vibrant color palette.  The app was designed using AngularJS, so the app transitions with lightening fast responsiveness. 
+An added component that makes this application stand out is the inclusion of the versatile player bar that allows the user to continue navigation while keeping in view the current media file that is playing.  This app came alive elegantly!
 
 ---
-This is an example of a post which includes a feature image specified in the front matter of the post. The feature image spans the full-width of the page, and is shown with the title on permalink pages.
+{:.center}
+![]({{ site.baseurl }}/img/1_landing.jpg)
+
+---
+{:.center}
+![]({{ site.baseurl }}/img/8_response.jpg)
