@@ -33,7 +33,6 @@
     margin-top: 1em;
   }
 }
-
 // Work listing
 .work {
   h2 {
@@ -48,6 +47,8 @@
     margin-left:0.5%;
     margin-bottom: 0;
     display: inline-block;
+    min-width: 150px;
+    padding: 1rem;
     p a:hover {
       @extend %link-hover;
     }
@@ -66,4 +67,8 @@
 .pagination {
   padding: $padding-small $padding-large 0 $padding-large;
   text-align: center;
+}
+
+.center {
+    text-align: center;
 }

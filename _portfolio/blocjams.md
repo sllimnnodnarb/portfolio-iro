@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Bloc Jams
-date: February, 2017
-feature-img: "img/bloc-jams-banner.png"
+
+feature-img: "img/bloc-jams-background-copy.jpg"
 thumbnail-path: "img/bloc-jams-thumbnail.png"
 short-description: Bloc Jams for iOS is a sleek and responsive personal music player. 
 ---
@@ -17,3 +17,6 @@ An added component that makes this application stand out is the inclusion of the
 ---
 {:.center}
 ![]({{ site.baseurl }}/img/8_response.jpg)
+
+---
+To learn more [about](/about) the author or the content herein, just [ask](/contact/).

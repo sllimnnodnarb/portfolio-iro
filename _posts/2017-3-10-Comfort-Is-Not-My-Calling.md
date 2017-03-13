@@ -12,7 +12,7 @@ Stepping into the depths of coding is intimidating, and there seems to be an end
 
 ---
 {:.center} 
-![]({{ site.baseurl }}/img/bloc.png)
+![]({{ site.baseurl }}/img/bloc-logo.png)
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Bloc Chat
-Date:  March, 2017
-feature-img: "img/bloc-chat-banner1.png"
+
+feature-img: "img/wires.jpg"
 thumbnail-path: "img/bloc-chat-thumbnail.png"
 short-description: "Bloc Chat is a chatting platform designed for unobtrusive discussion."
 
@@ -23,5 +23,8 @@ Bloc Chat requires a username to participate so data is captured and managed ord
 ---
 This is a typical chat room view.  Users can create rooms, send messages, and most importantly, communicate quickly and reliably.
 {:.center}
-![]({{ site.baseurl }}/img/2-bloc-chat-room.png)
+![]({{ site.baseurl }}/img/lawn-bowling.png)
+
+---
+To learn more [about](/about) the author or the content herein, just [ask](/contact/).
 
