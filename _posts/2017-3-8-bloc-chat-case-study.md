@@ -13,7 +13,7 @@ If you enjoy play-by-play analysis, you will find that this case study covers a 
 
 ---
 
-The home page for Block Chat is as seen above.  The first challenge that emerged was that it was in fact possible to enter the chat arena without first naming oneself.  The obvious problem here is that messages could then be sent, but the recipient of the message would have no idea who the message came from.  The solution?  Resolution came in the form of directing all users to an inescapable modal window on the home screen that requires a username input before proceeding to the website...voila!
+The home page for Bloc Chat is as seen above.  The first challenge that emerged was that it was in fact possible to enter the chat arena without first naming oneself.  The obvious problem here is that messages could then be sent, but the recipient of the message would have no idea who the message came from.  The solution?  Resolution came in the form of directing all users to an inescapable modal window on the home screen that requires a username input before proceeding to the website...voila!
 
 {:.center} 
 ![]({{ site.baseurl }}/img/1-bloc-chat-username.png)
