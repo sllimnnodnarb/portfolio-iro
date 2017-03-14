@@ -22,5 +22,4 @@ HTML and CSS are two powerful tools that when used properly can create beautiful
 
 ---
 
-
 To learn more [about](/about) the author or the content herein, just [ask](/contact/).
