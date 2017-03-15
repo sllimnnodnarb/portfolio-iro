@@ -18,4 +18,11 @@ An added component that makes this application stand out is the inclusion of the
 ![]({{ site.baseurl }}/img/8_response.jpg)
 
 ---
+
+<video width="600" controls>
+  <source src="/img/bloc-jams-video.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
+
+---
 To learn more [about](/about) the author or the content herein, just [ask](/contact/).

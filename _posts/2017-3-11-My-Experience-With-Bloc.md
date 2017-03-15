@@ -3,7 +3,7 @@ layout: post
 title: My Experience With Bloc
 ---
 
-If you have read my recent post [Comfort Is Not My Calling](/2017/03/10/Comfort-Is-Not-My-Calling.html/), you will understand with more clarity the journey that I am on.  While I have experienced some ups and downs with Bloc, I did not begin initially with Bloc as my choice provider for learning to code.  I began with FreeCodeCamp.
+If you have read my recent post [Comfort Is Not My Calling](/2017/03/10/Comfort-Is-Not-My-Calling/), you will understand with more clarity the journey that I am on.  While I have experienced some ups and downs with Bloc, I did not begin initially with Bloc as my choice provider for learning to code.  I began with FreeCodeCamp.
 
 ---
 

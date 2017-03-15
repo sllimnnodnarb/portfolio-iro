@@ -10,6 +10,12 @@ short-description: "Bloc Chat is a chatting platform designed for unobtrusive di
 Bloc Chat.  Say what?  Exactly!  Bloc chat is a straight-forward messaging application that removes all the clutter gained from mainstream chatting applications.  Bloc Chat stands alone as a basic peer to peer communications tool, or could easily be integrated into a larger web application portfolio to add messaging as applicable.  Bloc Chat is lean, efficient, and mobile ready.
 
 ---
+
+<video width="600" controls>
+  <source src="/img/bloc-chat-video.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
+
 The home page for Bloc Chat boasts simplicity so that the user can get about to the matter of messaging quickly, and without redundant navigation.
 
 {:.center}
