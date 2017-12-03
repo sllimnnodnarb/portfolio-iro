@@ -8,11 +8,11 @@ theme_settings:
   title: Brandon Mills
   avatar: bwgravatar.jpg
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "Making things on the innernets." # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Designer. <br>Developer.<br><tab><i>Bookworm.</i></h1>
+     <h1>Designer.<br>Developer.<br><tab><i>Bookworm.</i></h1>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
@@ -22,12 +22,12 @@ theme_settings:
   email_address: "sllimnodnarb@gmail.com" # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
-  dribbble: 
+  dribbble:
   facebook: "brandon.mills.98622"
   flickr:
   github: "sllimnnodnarb"
   google_plus:
-  instagram: 
+  instagram:
   linkedin:  "https://www.linkedin.com/in/brandon-mills-a7098912a/" # Full URL
   pinterest:
   reddit:
@@ -71,4 +71,4 @@ sass:
   sass_dir: _sass
   style: :compressed
 
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]

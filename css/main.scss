@@ -16,3 +16,64 @@
 // Partials
 @import 'includes/header';
 @import 'includes/footer';
+
+.grayfont {
+  color: gray;
+}
+
+.picshad {
+  -webkit-box-shadow: 1px 10px 17px 3px rgba(0,0,0,0.69);
+  -moz-box-shadow: 1px 10px 17px 3px rgba(0,0,0,0.69);
+  box-shadow: 1px 10px 17px 3px rgba(0,0,0,0.69);
+}
+
+.tline {
+  border-top: 1px solid lightgray;
+  padding-top: 15px;
+  margin-top: 15px;
+}
+
+.wid50per {
+  width: 50%;
+}
+
+.wid25per {
+  width: 25%;
+}
+
+.pad15 {
+  padding: 15px;
+}
+
+.font2rem {
+  font-size: 2rem;
+}
+
+.tmar25 {
+  margin-top: 25px;
+}
+
+.tmar50 {
+  margin-top: 50px;
+}
+
+.fontcorn {
+  color: cornsilk;
+}
+
+.op90 {
+  opacity: .9;
+}
+
+.op50 {
+  opacity: .5;
+}
+
+.tcent {
+  text-align: center;
+}
+
+.tleft {
+  text-align: left;
+  margin-left: 25px;
+}

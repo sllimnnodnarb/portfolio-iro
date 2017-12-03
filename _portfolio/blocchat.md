@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Bloc Chat
-
+date: March 2017
 feature-img: "img/wires.jpg"
-thumbnail-path: "img/bloc-chat-thumbnail.png"
+thumbnail-path: "img/3-bloc-chat-home.png"
 short-description: "Bloc Chat is a chatting platform designed for unobtrusive discussion."
 
 ---
@@ -11,8 +11,8 @@ Bloc Chat.  Say what?  Exactly!  Bloc chat is a straight-forward messaging appli
 
 ---
 
-<video width="600" controls>
-  <source src="/img/bloc-chat-video.mp4" type="video/mp4">
+<video width="600"
+  src="/img/bloc-chat-video.mp4" type="video/mp4" poster="/img/3-bloc-chat-home.png" controls class="picshad">
   Your browser does not support HTML5 video.
 </video>
 
@@ -33,4 +33,3 @@ This is a typical chat room view.  Users can create rooms, send messages, and mo
 
 ---
 To learn more [about](/about) the author or the content herein, just [ask](/contact/).
-
