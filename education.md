@@ -13,10 +13,10 @@ As the title suggests, this page is a quick glimpse into some of my educational 
 ![]({{ site.baseurl }}/img/transcript-1.jpg)
 
 {:.center}
-![]({{ site.baseurl }}/img/transcript-2.jpg)
+![]({{ site.baseurl }}/img/transcript-2-2.jpg)
 
 {:.center}
-![]({{ site.baseurl }}/img/transcript-3.jpg)
+![]({{ site.baseurl }}/img/transcript-3-3.jpg)
 
 ---
 
