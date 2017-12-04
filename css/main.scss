@@ -21,6 +21,10 @@
   color: gray;
 }
 
+.blackfont {
+  color: black;
+}
+
 .picshad {
   -webkit-box-shadow: 1px 10px 17px 3px rgba(0,0,0,0.69);
   -moz-box-shadow: 1px 10px 17px 3px rgba(0,0,0,0.69);
@@ -55,6 +59,18 @@
 
 .tmar50 {
   margin-top: 50px;
+}
+
+.rmar50 {
+  margin-right: 50px;
+}
+
+.wid100 {
+  width: 100px;
+}
+
+.floatr {
+  float: right;
 }
 
 .fontcorn {

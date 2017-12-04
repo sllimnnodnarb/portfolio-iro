@@ -2,7 +2,7 @@
 layout: post
 title: Little Pilgrims Theology
 date: December 2017
-feature-img: "img/little-pilgrims/pilgrim-home-2.png"
+feature-img: "img/little-pilgrims/pilgrims-banner-2.png"
 thumbnail-path: "img/little-pilgrims/pilgrim-home.png"
 short-description: Videos, quizzes, and printable resources make learning theology fun and engaging!
 ---
@@ -12,7 +12,7 @@ Sound. Biblical. Theology. For those looking to grown in depth and knowledge of 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/little-pilgrims/pilgrim-content.png)
+![]({{ site.baseurl }}/img/little-pilgrims/pilgrim-home.png)
 
 ---
 
@@ -45,26 +45,36 @@ Just below each content page, is a grid-like array of activities that complement
 This preview of Little Pilgrims Theology could go on extensively highlighting the jQuery, depth of styling, and visual elements, but it would be more practical if we took a short video tour. Watch the video to take a look.
 
 ---
-<video width="600" height="auto" controls src="/img/little-pilgrims/little-pilgrims-tour-1.mp4" type="video/mp4" poster="/img/little-pilgrims/pilgrim-home.png" class="picshad tcent">
-  Your browser does not support HTML5 video.
-</video>
+
+<div class="tcent">
+  <video width="600" height="auto" controls autobuffer src="https://s3.us-east-2.amazonaws.com/brandon-personal/pilgrim-tour-1.mp4" type="video/mp4" poster="/img/little-pilgrims/pilgrim-home.png" class="picshad">
+    Your browser does not support HTML5 video.
+  </video>
+</div>
 
 ---
 
 Here is another short clip that gives some insight as to the nature of the shopping experience at Little Pilgrims Theology.
 
 ---
-<video width="600" height="auto" controls src="/img/little-pilgrims/little-pilgrims-tour-2.mp4" type="video/mp4" poster="/img/little-pilgrims/pilgrim-store.png" class="picshad tcent">
-  Your browser does not support HTML5 video.
-</video>
+
+<div class="tcent">
+  <video width="600" height="auto" controls autobuffer src="https://s3.us-east-2.amazonaws.com/brandon-personal/pilgrim-tour-2.mp4" type="video/mp4" poster="/img/little-pilgrims/pilgrim-store.png" class="picshad tcent">
+    Your browser does not support HTML5 video.
+  </video>
+</div>
+
 ---
 
 And finally a third video that shows the user sign up process for account creation, subscription, and a secure checkout experience. Enjoy!
 
 ---
-<video width="600" height="auto" controls src="/img/little-pilgrims/pilgim-sign-up-video.mp4" type="video/mp4" poster="/img/little-pilgrims/pilgrim-menu.png" class="picshad tcent">
-  Your browser does not support HTML5 video.
-</video>
+
+<div class="tcent">
+  <video width="600" height="auto" controls autobuffer src="https://s3.us-east-2.amazonaws.com/brandon-personal/pilgrim-sign-up-video.mp4" type="video/mp4" poster="/img/little-pilgrims/pilgrim-menu.png" class="picshad tcent">
+    Your browser does not support HTML5 video.
+  </video>
+</div>
 
 ---
 To learn more [about](/about) the author or the content herein, just [ask](/contact/).

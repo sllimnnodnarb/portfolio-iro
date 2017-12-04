@@ -17,12 +17,12 @@ I welcome your feedback, questions, and comments.  Fill out the form below and I
   <textarea class="space" name='message' placeholder='Write your message here...'></textarea><br>
   <!--
   <a id="submitButton" href="#">Submit</a>
-  
+
   some javascript somewhere that does this:
   document.getElementById("submitButton").addEventListener("click", function () {
     document.getElementById("formId").submit();
   });
-  
+
   document.getElementById("formId").addEventListener("submit", function () {
     if (document.getElementById("name").value === "") {
         return false; // stops from submitting
@@ -31,6 +31,3 @@ I welcome your feedback, questions, and comments.  Fill out the form below and I
   -->
   <button class="space" type='submit' value='Send Message'>Submit</button>
 </form>
-
-
-
