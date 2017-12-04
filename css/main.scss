@@ -75,10 +75,14 @@
 
 .floatr {
   float: right;
+  padding-right: 0px;
+  margin-right: 0px;
+  display: inline-block;
 }
 
 .rpad15 {
-  padding-right: 15px;
+  padding-right: 15px!important;
+  margin-right: 0px!important;
 }
 
 .fontcorn {
