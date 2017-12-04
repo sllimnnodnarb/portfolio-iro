@@ -7,7 +7,7 @@ thumbnail-path: "img/little-pilgrims/pilgrim-home.png"
 short-description: Videos, quizzes, and printable resources make learning theology fun and engaging!
 ---
 
-Sound. Biblical. Theology. For those looking to grown in depth and knowledge of the Christian faith, Little Pilgrims Thoelogy is the place to do so.  This educational platform serves up learning resources that are rooted in scripture for next to nothing, and offers print material for more structured study.
+Sound. Biblical. Theology. For those looking to grown in depth and knowledge of the Christian faith, Little Pilgrims Theology is the place to do so.  This educational platform serves up learning resources that are rooted in scripture for next to nothing, and offers print material for more structured study. Stop by [Little Pilgrims Theology](https://littlepilgrimstheology.com/) to see this web application live.
 
 ---
 
