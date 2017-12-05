@@ -15,7 +15,7 @@ Metrics. Analysis. Vision.  This is the age of data.  Not that data has ever bee
 
 ---
 
-A tiny code snippet is provided for users' web application(s) that posts analytics metrics to the user's account on Eyenylitics.  When page elements are activated by site visitors, jQuery documents those events.  The jQuery events are passed to the eyenylitics snippet that brings them home to site owners' registered applications, and BAM!  Data in hand.
+A tiny code snippet is provided for users' web application(s) that posts analytics metrics to the user's account on Eyenylitics.  When page elements are activated by site visitors, jQuery documents those events.  The jQuery events are passed to the Eyenylitics snippet that brings them home to site owners' registered applications, and BAM!  Data in hand.
 
 ---
 

@@ -29,7 +29,7 @@ In case there was any concern that this app becomes unusable when employed on a 
 
 ---
 
-Take Bloc Jams for a test drive here in this jammin video segment!
+Take Bloc Jams for a test drive here in this jammin' video segment!
 
 ---
 
